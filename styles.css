@@ -161,7 +161,7 @@
 
 .insta-heading{
   font-family:'Lato', sans-serif;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 900;
   color: #272727;
   margin-top: 100px;
@@ -191,7 +191,7 @@
 .subscription{
   margin: auto;
   width: 1080px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
   height: 330px;
   background-image: url("Flower Asset/Rectangle 9.png");
   border-radius: 5px;
@@ -205,7 +205,7 @@
 
 .subs-heading-title{
   font-family:'Lato', sans-serif;
-  font-size: 25px;
+  font-size: 23px;
   font-weight: 900;
   color: #272727;
   text-align: center;
@@ -240,4 +240,7 @@ input,label {
   border-radius: 5px;
   height: 40px;
   
+}
+#f1, #f2, #f3, #f4{
+  border-radius: 5px;
 }
