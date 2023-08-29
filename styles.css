@@ -41,7 +41,7 @@
   font-size: 14px;
   background-color: #E55473;
   color: #FFFFFF;
-  padding: 12px 25px;
+  padding: 16px 25px;
   margin-top: 30px;
   border-style: none;
   border-radius: 5px;
@@ -224,7 +224,8 @@
 
 
 input,label {
-  margin: 0.4rem 0;
+  
+  margin: 0.6rem ;
   padding: 15px;
   color: #27272760;
 }
@@ -238,9 +239,36 @@ input,label {
   width: 527px;
   border-style: none;
   border-radius: 5px;
-  height: 40px;
+  height: 50px;
   
 }
-#f1, #f2, #f3, #f4{
-  border-radius: 5px;
+
+.foot{
+  width: 100%;
+  background-color: #111010;
+  height: 449px;
+}
+
+.foot-title{
+  font-family:'Lato', sans-serif;
+  font-size: 30px;
+  font-weight: 900;
+  color: #E55473;
+  text-align: center;
+  margin-bottom: 10px;
+  height: 50px;
+  padding-top: 150px;
+}
+.shop{
+  color: white;
+}
+
+.foot-sub{
+  font-family:'Lato', sans-serif;
+  font-size: 12px;
+  font-weight: 900;
+  color: #998f91;
+  text-align: center;
+  margin-bottom: 10px;
+  line-height: 25px;
 }
